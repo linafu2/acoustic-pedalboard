@@ -1,4 +1,0 @@
-/Users/linafu/Desktop/lina/acoustic-pedal/build/CMakeFiles/acoustic_pedal.dir
-/Users/linafu/Desktop/lina/acoustic-pedal/build/CMakeFiles/run_tests.dir
-/Users/linafu/Desktop/lina/acoustic-pedal/build/CMakeFiles/edit_cache.dir
-/Users/linafu/Desktop/lina/acoustic-pedal/build/CMakeFiles/rebuild_cache.dir
