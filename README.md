@@ -137,4 +137,4 @@ q: quit
 ## Recording
 
 When starting the program, you can optionally enable recording.
-If enabled, the processed stereo output will be saved to: recording.wav.
+If enabled, the processed stereo output will be saved to `recording.wav`.
