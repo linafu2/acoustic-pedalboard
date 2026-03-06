@@ -85,15 +85,15 @@ This modular design allows additional effects to be added easily.
 
 ## Build
 
-cmake -B build
+cmake -B build  
 cmake --build build -j
 
 ---
 
 ## Run
 
-./build/acoustic_pedal
-Optional device selection:
+./build/acoustic_pedal  
+Optional device selection:  
 ./build/acoustic_pedal --in 2 --out 1
 
 ---
@@ -103,32 +103,32 @@ Optional device selection:
 While the program is running:
 
 ### Presets
-1: Studio Acoustic
-2: Ambient Dreamy
-3: Lo-Fi
-4: Shoegaze
+1: Studio Acoustic  
+2: Ambient Dreamy  
+3: Lo-Fi  
+4: Shoegaze  
 
 ### Effect Toggles
-y: toggle delay on/off: adds echo
-t: toggle distortion on/off: adds saturation and grit
-r: toggle reverb on/off: adds atmospheric space
+y: toggle delay on/off: adds echo  
+t: toggle distortion on/off: adds saturation and grit  
+r: toggle reverb on/off: adds atmospheric space  
 
 ### Gain
-a/z: increase/decrease gain: overall volume
+a/z: increase/decrease gain: overall volume  
 
 ### Delay
-s/x: increase/decrease delay time: spacing between echoes
-d/c: increase/decrease delay mix: loudness of echoes
-f/v: increase/decrease delay feedback: number of repeating echoes
+s/x: increase/decrease delay time: spacing between echoes  
+d/c: increase/decrease delay mix: loudness of echoes  
+f/v: increase/decrease delay feedback: number of repeating echoes  
 
 ### Distortion
-g/h: increase/decrease distortion drive: strength of saturation/fuzz
-j/k: increase/decrease distortion tone: brightness of distorted tone
+g/h: increase/decrease distortion drive: strength of saturation/fuzz  
+j/k: increase/decrease distortion tone: brightness of distorted tone  
 
 ### Reverb
-u/i: increase/decrease reverb mix: amount of ambient room sound
-o/p: increase/decrease reverb decay: length of the reverb tail
-l/;: increase/decrease reverb damping: brightness of the reverb tail
+u/i: increase/decrease reverb mix: amount of ambient room sound  
+o/p: increase/decrease reverb decay: length of the reverb tail  
+l/;: increase/decrease reverb damping: brightness of the reverb tail  
 
 q: quit
 
