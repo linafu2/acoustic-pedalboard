@@ -10,6 +10,14 @@ It also supports:
 
 ---
 
+## Demo
+
+The intro of "Lover You Should've Come Over" by Jeff Buckley with the 4 different presets applied, Studio Acoustic, Ambient Dreamy, Lo-Fi, and Shoegaze:
+
+Download/listen to the raw wav file: [recording.wav](https://github.com/user-attachments/files/25805689/recording.wav)
+
+---
+
 ## Features
 
 - **Real-time audio processing** with PortAudio
