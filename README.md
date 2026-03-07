@@ -32,7 +32,7 @@ It also supports:
 
 ## Demo
 
-The intro of "Lover You Should've Come Over" by Jeff Buckley with the 4 different presets applied:
+The intro of "Lover You Should've Come Over" by Jeff Buckley with the 4 different presets applied (Shoegaze is my favorite!):
 
 https://github.com/user-attachments/assets/6f076a21-965a-4ad6-b6f7-12396b244256
 
