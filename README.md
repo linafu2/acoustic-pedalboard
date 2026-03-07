@@ -10,14 +10,6 @@ It also supports:
 
 ---
 
-## Demo
-
-The intro of "Lover You Should've Come Over" by Jeff Buckley with the 4 different presets applied, Studio Acoustic, Ambient Dreamy, Lo-Fi, and Shoegaze:
-
-Download/listen to the raw wav file: [recording.wav](https://github.com/user-attachments/files/25805689/recording.wav)
-
----
-
 ## Features
 
 - **Real-time audio processing** with PortAudio
@@ -38,9 +30,21 @@ Download/listen to the raw wav file: [recording.wav](https://github.com/user-att
 
 ---
 
+## Demo
+
+The intro of "Lover You Should've Come Over" by Jeff Buckley with the 4 different presets applied:
+
+https://github.com/user-attachments/assets/6f076a21-965a-4ad6-b6f7-12396b244256
+
+Download/listen to the raw wav file: [recording.wav](https://github.com/user-attachments/files/25805689/recording.wav)
+
+---
+
 ## Terminal UI
 
-The program includes a **terminal-based user interface** that displays the current effect settings and visualizes parameter values using bar indicators.
+<img width="315" height="296" alt="ParameterVisualizer" src="https://github.com/user-attachments/assets/5eb4131f-3770-4eea-b71e-409b609f643d" />
+
+The program includes a **terminal-based user interface** that displays the current effect settings and visualizes parameter values using bar indicators.  
 The interface updates whenever parameters change, allowing quick visual feedback while adjusting effects.
 
 ---
@@ -84,8 +88,7 @@ Each effect is implemented as a self-contained DSP block containing:
 - `prepare(sampleRate)`
 - `processSample()`
 
-The pedalboard chains blocks together in the following order:
-HPF -> Distortion -> Delay -> Reverb.
+The pedalboard chains blocks together in the following order: HPF -> Distortion -> Delay -> Reverb.  
 
 This modular design allows additional effects to be added easily.
 
